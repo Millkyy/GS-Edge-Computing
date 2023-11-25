@@ -3,13 +3,13 @@
 Camilly Breitbach Ishida - RM 551474
 Vinícius Almeida Bernardino de Souza - RM 97888
 
-  - Descrição do Problema de Saúde Abordado
+  - Descrição do Problema de Saúde Abordado:
 O InfoMed Connect visa solucionar a demora e a eficácia na triagem em serviços de emergência médica. Muitas vezes, a falta de informações precisas pode levar a diagnósticos imprecisos, aumentando o tempo de espera e comprometendo a qualidade do atendimento.
 
-  - Visão Geral da Solução Proposta
+  - Visão Geral da Solução Proposta:
 InfoMed Connect é uma plataforma inovadora de triagem para pronto-socorro que coloca a informação certa nas mãos dos profissionais de saúde, acelerando o processo e melhorando a precisão do atendimento. Os usuários fornecem dados essenciais, enquanto a plataforma utiliza lógica de priorização, integração com wearables e algoritmos para avaliar a gravidade da condição.
 
-  Adição Tecnológica - Uso do DHT com ESP32
+  Adição Tecnológica - Uso do DHT com ESP32:
 Para enriquecer ainda mais a coleta de dados em tempo real, implementaremos um sensor DHT junto ao ESP32. Esse dispositivo que servia  para medir temperatura e umidade, simulará a saturação de oxigênio (SpO2) e batimentos por minuto (BPM) no nosso projeto, oferecendo uma visão mais abrangente do estado de saúde do paciente.
 
   - Como Funcionará:
