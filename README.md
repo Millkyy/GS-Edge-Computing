@@ -23,7 +23,7 @@ Como configurar e executar a aplicação:
   No node-red
 - Faça dois nós no Node-red usando a rede MQTT in,  o analisador sintático jso, debug e o dashboard de sua preferência. (usamos o gauge para saturação e o chart para BPM)
 - (veja na imagem como se conecta os nós) 
-    - MQTT:
+        - MQTT:
   - Clique no lapis e no servidor coloque "mqtt-dashboard.com" e na porta coloque "1883".
   - Nos topicos coloque "/Thinkitive/BPM" e "/Thinkitive/Saturação" (um para cada nó).
   - coloque 0 no QoS
